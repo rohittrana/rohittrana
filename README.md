@@ -1,8 +1,4 @@
-<p align="center">
-<img alt="GIF" src="![image](https://github.com/user-attachments/assets/6089b2f9-689c-45a6-ad13-358677b34a2c)
-" height="280" />
- <p/>
-Hi !My name is Rohitt Rana
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohitt Rana
 ===================================================================================================================================
 
 "MERN Stack Developer | Blockchain Learner | Passionate About Web3"
