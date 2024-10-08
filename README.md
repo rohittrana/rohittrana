@@ -90,6 +90,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rohittrana/rohittrana/output/snake.svg" alt="Snake animation" />
 
 ###
