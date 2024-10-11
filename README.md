@@ -82,9 +82,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rohittrana/count.svg?"  />
-</div>
+
 
 ###
 
