@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rohit Trana
+# Hi there! 👋 I'm Rohit Rana
 
 <div align="center">
   
